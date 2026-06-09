@@ -1,6 +1,6 @@
-# Snake Game 🐍
+# 🐍 Snake Game
 
-My first game development project built using Python and Pygame.
+Built with Python and Pygame
 
 ## Features
 
