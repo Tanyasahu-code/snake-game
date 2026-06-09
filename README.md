@@ -14,7 +14,7 @@ My first game development project built using Python and Pygame.
 
 ## Screenshot
 
-![Snake Game Screenshot](snake%20game%20ss.png)
+![Snake Game Screenshot](snake%20game%20ss.jpeg)
 
 ## Technologies Used
 
